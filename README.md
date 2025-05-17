@@ -21,3 +21,5 @@
 [program1C5 o/p link]->(https://github.com/Mehek04/Mehek_ADJ/blob/main/Screenshot%202025-05-16%20174241.png)
 
 [program2a o/p link]->(https://github.com/Mehek04/Mehek_ADJ/blob/main/Screenshot%202025-05-17%20015514.png)
+
+[program2b o/p link]->(https://github.com/Mehek04/Mehek_ADJ/blob/main/Screenshot%202025-05-17%20020155.png)
